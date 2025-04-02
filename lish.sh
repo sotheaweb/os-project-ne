@@ -14,7 +14,3 @@ else
     echo "Invalid directory!"
     log_action "Failed attempt to list files in $dir (Invalid directory)"
 fi
-
-#code of : backup.sh----------------------------------------------------------------
-
-#!/bin/bash
